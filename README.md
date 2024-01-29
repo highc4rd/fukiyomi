@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fukiyomi
 - 👀 I’m interested in - Web development
-- 🌱 I’m currently learning - Next.JS
+- 🌱 I’m currently learning - React.JS + Next.JS
 - 📫 How to reach me - element: @txshiro or email: a3pvwxh6w@mozmail.com
 
 <!---
