@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fukiyomi
+- 👋 I’m @fukiyomi 👺 or star dreams ✨
 - 👀 I’m interested in - Web development
 - 🌱 I’m currently learning - React.JS + Next.JS
 - 📫 How to reach me - element: @txshiro or email: a3pvwxh6w@mozmail.com
